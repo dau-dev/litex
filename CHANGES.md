@@ -486,6 +486,8 @@
 	- timer:              Fix AutoDoc.
 	- Microwatt/Ethernet: Fix build.
 	- soc/software:       Link with compiler instead of ld.
+	- litedrim/dma        : Fixed rdata connection (omit list update since LiteX AXa changes).
+
 
 	[> Added
 	--------
